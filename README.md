@@ -10,7 +10,7 @@ The Code convert the lights from /obj to /stage, sending the parameters, transla
 - DistantLight
 - Enviroment Light
 
-### How to use with Houdini: 
+### How to install in Houdini: 
 1. Copy the code.
 2. Create a new Tool in the shelf Bar.
 3. Paste the code into the Script tab.
