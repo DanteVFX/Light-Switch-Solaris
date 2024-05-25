@@ -1,0 +1,2 @@
+# Light-Switch-Solaris
+LightS
