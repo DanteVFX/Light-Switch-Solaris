@@ -1,7 +1,7 @@
 # Light Switcher v1.0
 This is a python code to use in Houdini.
 
-The Code convert the lights from /obj to /stage, sending the parameters, translation, rotation and name.
+The code gets the lights from /obj and creates the same number of lights in /stage, assigning the parameters, translation, rotation, and name.
 
 ### Lights accepted:
 - PointLight
