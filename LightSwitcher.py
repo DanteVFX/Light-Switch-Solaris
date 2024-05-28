@@ -1,3 +1,8 @@
+"""
+Tool Name:    Light Switcher V1.0
+Description:  Converts Lights from /obj to /stage 
+"""
+
 import hou
 import time
 from PySide2 import QtGui, QtWidgets, QtCore
