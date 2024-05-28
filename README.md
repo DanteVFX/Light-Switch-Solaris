@@ -16,3 +16,6 @@ The code gets the parameters, translation, rotation, and name from the selected 
 1. Copy the code.
 2. Create a new Tool in the shelf Bar.
 3. Paste the code into the Script tab.
+
+### Recomendatio:
+To avoid problems with repetitive names when transferring lights, always add a prefix.
