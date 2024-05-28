@@ -19,3 +19,7 @@ The code gets the parameters, translation, rotation, and name from the selected 
 
 ### Recommendation:
 To avoid problems with repetitive names when transferring lights, always add a prefix.
+
+###Resource:
+
+bird Model : https://free3d.com/3d-model/bird-with-wings-above-head-v1--211946.html
